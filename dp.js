@@ -1,0 +1,5 @@
+// pallindromic subsequence
+
+function traversediagonallyup(){
+    
+}
